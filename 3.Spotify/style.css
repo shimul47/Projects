@@ -250,3 +250,19 @@ a{
     border-radius: 50%;
     margin-top:-6px;
 }
+
+.album-icon{
+    height:55px;
+    width:83px;
+    margin-left:1.5rem;
+    margin-right:1rem;
+    margin-top:1.2rem;
+    border-radius: 5%;  
+}
+.album-option{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.album-text{
+    flex-wrap: wrap;
+}
